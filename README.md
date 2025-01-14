@@ -37,7 +37,8 @@ The analysis follows these key steps:
 1. **Gender-based Insights**:
    - Female customers represent the majority of sales, both in terms of the number of orders and the total amount spent.
    - The purchasing power of women during Diwali is significantly higher than that of men.
-     ![image](https://github.com/user-attachments/assets/d8310b6c-ead6-4a69-b1e8-2f53da811b0f)
+     ![image](https://github.com/user-attachments/assets/76349a18-1cfd-4efe-9214-ed4b6ac4bca9)
+
 
 2. **Age-based Insights**:
    - The **26-35 years** age group, particularly females, contributes the highest to the total sales amount.
