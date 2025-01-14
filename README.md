@@ -43,12 +43,12 @@ The analysis follows these key steps:
 2. **Age-based Insights**:
    - The **26-35 years** age group, particularly females, contributes the highest to the total sales amount.
    - Other age groups also show significant sales activity, but the 26-35 age group remains dominant.
-     ![image](https://github.com/user-attachments/assets/91dceddc-094b-4f37-a045-678307568093)
+     ![image](https://github.com/user-attachments/assets/732e0568-2883-4408-abc2-e8e97de54f07)
 
 3. **State-based Insights**:
    - **Uttar Pradesh**, **Maharashtra**, and **Karnataka** are the top states contributing to total sales during Diwali.
    - These states also show high order volumes, with a notable increase in the average amount spent.
-     ![image](https://github.com/user-attachments/assets/e6f049ba-94ca-44ac-af0c-954c78b2c158)
+     ![image](https://github.com/user-attachments/assets/f6b41fc3-ec83-4ad8-8134-26246b5de0af)
 
 4. **Marital Status and Occupation**:
    - **Married women** have higher purchasing power, and their spending significantly impacts the overall sales during Diwali.
